@@ -9,4 +9,5 @@ This is a repository to gain familiarity with git and Github.
 - git push
 - git pull
 - git branch
-
+- git checkout -b
+- git branch -d
